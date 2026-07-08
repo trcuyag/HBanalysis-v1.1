@@ -484,3 +484,10 @@ This project is licensed under MIT terms of the license included in the reposito
 
 - Linux, Python, GROMACS and free software developers
 - Universidade do Estado do Rio de Janeiro - UERJ/Brasil
+
+
+![Figure1](images/Figure1.png)
+![Figure2](images/Figure2.png)
+![Figure3](images/Figure3.png)
+![Figure4](images/Figure4.png)
+
