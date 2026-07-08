@@ -486,8 +486,8 @@ This project is licensed under MIT terms of the license included in the reposito
 - Universidade do Estado do Rio de Janeiro - UERJ/Brasil
 
 
-![Figure1](images/Figure1.png)
-![Figure2](images/Figure2.png)
-![Figure3](images/Figure3.png)
-![Figure4](images/Figure4.png)
+![Figure1](Figure1.png)
+![Figure2](Figure2.png)
+![Figure3](Figure3.png)
+![Figure4](Figure4.png)
 
