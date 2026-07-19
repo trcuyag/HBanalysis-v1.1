@@ -4,6 +4,9 @@
 
 HBanalysis v1.1 is a tool for H‑bond network analysis from GROMACS. It transforms raw GROMACS output files into meaningful statistical data, computes occupancy, residue pharmacophore dynamics, correlation matrices, and centrality metrics. Applicable to protein–protein, receptor–ligand, protein–DNA/RNA, and allosteric communication.
 
+![Figure1](Figure1.png)
+
+
 ---
 
 ## Table of Contents
@@ -486,7 +489,7 @@ This project is licensed under MIT terms of the license included in the reposito
 - Universidade do Estado do Rio de Janeiro - UERJ/Brasil
 
 
-![Figure1](Figure1.png)
+
 ![Figure2](Figure2.png)
 ![Figure3](Figure3.png)
 ![Figure4](Figure4.png)
